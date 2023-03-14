@@ -15,6 +15,9 @@ Sometimes you need to do something away from the computer, but still want to acc
 - [ x ] Can control League Client through phone ( Create Lobby, Start Match, Choose lanes )
 - [ x ] .exe Download the source code and runs League
 
+![Slide 16_9 - 3](https://user-images.githubusercontent.com/66091116/225055725-9f3501e6-d84c-4e99-9925-5ad0232f8f67.png)
+
+
 # How it works? 💼
 ## Computer Server 💻
 First he creates a local server and with the League Client api he makes calls to some routes that perform actions within the application
